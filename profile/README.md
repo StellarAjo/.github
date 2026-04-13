@@ -1,7 +1,7 @@
 # StellarAjo
 
   Bringing Africa's most trusted savings tradition on-chain.
-StellarSusu is an open-source organisation building the mobile-first frontend layer for the [SoroSusu-Protocol](https://github.com/sorosusu/SoroSusu-Protocol) — a live Soroban smart contract on the Stellar network that eliminates the single biggest risk in traditional rotating savings: trusting a human collector with everyone's money.
+StellarSusu is an open-source organisation building the mobile-first frontend layer for the Soroban smart contract on the Stellar network that eliminates the single biggest risk in traditional rotating savings: trusting a human collector with everyone's money.
 
 ---
 
